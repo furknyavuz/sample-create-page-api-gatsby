@@ -1,0 +1,38 @@
+h2 {
+    margin-top: 0.75rem;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.title {
+    margin: 1.25rem;
+}
+
+.layout {
+    width: 960px;
+    margin: 4rem auto;
+}
+
+.repository-list-item {
+    margin-bottom: 1.75rem;
+    border-radius: 3px;
+}
+
+.repository-data-container {
+    margin: 1.5rem 0.75rem 0.75rem 0.5rem;
+}
+
+.repository-buttons-row {
+    margin-top: 1.25rem;
+}
+
+.repository-button {
+    margin: 0.25rem;
+}
+
+.release-notes {
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+}

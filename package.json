@@ -1,0 +1,30 @@
+{
+  "name": "sample-create-page-api-gatsby",
+  "version": "0.0.1",
+  "description": "Sample Create Page API Usage Without GraphQL in Gatsby",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furknyavuz/sample-create-page-api-gatsby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furknyavuz/sample-create-page-api-gatsby/issues"
+  },
+  "homepage": "https://github.com/furknyavuz/sample-create-page-api-gatsby#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "gatsby": "^2.0.0",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-markdown": "^4.0.6",
+    "reactstrap": "^7.1.0"
+  }
+}
