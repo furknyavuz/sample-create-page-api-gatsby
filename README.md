@@ -1,4 +1,4 @@
-# sample-create-page-api-gatsby
+# sample-create-page-api-gatsby [![Netlify Status](https://api.netlify.com/api/v1/badges/0883f256-38a5-441e-856b-61d974c627e4/deploy-status)](https://app.netlify.com/sites/sample-create-page-api-gatsby/deploys)
 Sample Create Page API Usage Without GraphQL in Gatsby
 
 ***
