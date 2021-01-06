@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/furknyavuz/sample-create-page-api-gatsby#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "gatsby": "^2.0.0",
     "react": "^16.5.1",
